@@ -1,7 +1,10 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=CFF3BA&height=300&section=header&text=sonewn&fontColor=FFFFFE&fontSize=90&fontAlign=75)
 
-### Hi there 👋
+
+Hi there 👋
+I'm sonewn! And I'm 
+
 <!--
 **sonewn/sonewn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

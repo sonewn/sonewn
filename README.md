@@ -1,14 +1,27 @@
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=CFF3BA&height=300&section=header&text=sonewn&fontColor=FFFFFE&fontSize=90&fontAlign=75)
+![header](https://capsule-render.vercel.app/api?type=waving&color=CFF3BA&height=300&section=header&text=sonewn&fontColor=FFFFFE&fontSize=90&fontAlign=75) 
 
 
 
-Hi there 👋                                                                                                                                                  
-I'm sonewn, Junior ML developer and data analyst! 🤓                                                                                                             
-                                                                                                                                                             
+<h5 align="center">Hi there 👋</h5>                                                                                                                                                  
+<h5 align="center">I'm sonewn, Junior ML developer and data analyst! 🤓</h5>                                                                                                             
+<br><br><br>
 
-## 🐮 Repositories
-                                                                                                                                                             
+<h3 align="center">🛠 Tech Stack 🛠</h3>
+<br>
+                                                                                                                                                         
+<p align=middle>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">  &nbsp; <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white">  &nbsp; <img src="https://img.shields.io/badge/scikit learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
+</p>
+
+<p align=middle>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"> &nbsp; <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white">
+</p>
+
+<br><br>
+
+# 🐮 Repositories
+<br>
 
 | **no** |           **name**           |  **date**  |                                        **content**                                       |     **note**    |
 |:------:|:----------------------------:|:----------:|:----------------------------------------------------------------------------------------:|:---------------:|
@@ -23,6 +36,18 @@ I'm sonewn, Junior ML developer and data analyst! 🤓
 [링크3]: https://github.com/sonewn/Pytorch_Basic "Pytorch"
 [링크4]: https://github.com/sonewn/Wanted_AI_Onboarding "NLP & Pytorch"
 [링크5]: https://github.com/sonewn/scikitlearn_review "scikit-learn"
+
+<br />
+
+
+
+
+
+
+
+
+
+
 
 
 <!--

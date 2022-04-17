@@ -3,12 +3,12 @@
 
 
 
-Hi there 👋
-I'm sonewn, Junior ML developer and data analyst! 
-
+Hi there 👋                                                                                                                                                  
+I'm sonewn, Junior ML developer and data analyst! 🤓                                                                                                             
+                                                                                                                                                             
 
 ## 🐮 Repositories
-
+                                                                                                                                                             
 
 | **no** |           **name**           |  **date**  |                                        **content**                                       |     **note**    |
 |:------:|:----------------------------:|:----------:|:----------------------------------------------------------------------------------------:|:---------------:|

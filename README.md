@@ -4,7 +4,11 @@
 
 
 <h3 align="center">Hi there 👋</h3>                                                                                                                                                  
-<h3 align="center">I'm sonewn, Junior ML developer and data analyst! 🤓</h3>                                                                                                             
+<h3 align="center">I'm sonewn, Junior ML developer and data analyst! 🤓</h3>
+
+<br>
+<h3 align="center">Interested in Time series data & NLP <br> Also I want to study Recommendation system 👩🏻‍💻</h3> 
+
 <br><br><br>
 
 ***

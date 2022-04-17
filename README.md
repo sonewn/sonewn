@@ -2,14 +2,14 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=CFF3BA&height=300&section=header&text=sonewn&fontColor=FFFFFE&fontSize=90&fontAlign=75)
 
 
+
 Hi there 👋
 I'm sonewn, Junior ML developer and data analyst! 
-#
-#
+
 
 ## 🐮 Repositories
-#
-#
+
+
 | **no** |           **name**           |  **date**  |                                        **content**                                       |     **note**    |
 |:------:|:----------------------------:|:----------:|:----------------------------------------------------------------------------------------:|:---------------:|
 |    1   |      [Dacon_ClosingPrice][링크1]      | 2021.12-01 |                    Model predicting Closing Price of  300 Korean firms                   |   dacon 1st 🥇   |

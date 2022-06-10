@@ -7,7 +7,9 @@
 <h3 align="center">I'm sonewn, Junior ML developer and AI researcher! 🤓</h3>
 
 <br>
-<h3 align="center">Interested in Time series data & NLP <br> Also I want to study Recommendation system 👩🏻‍💻</h3> 
+<h3 align="center">Now I'm studying Image Downscaling AI in my new firm!</h3>
+
+<h3 align="center">And interested in Time series data & NLP <br> Also I want to study Point Cloud 👩🏻‍💻</h3> 
 
 <br><br><br>
 

@@ -15,6 +15,37 @@
 
 ***
 <br><br>
+<h3 align="center">🌳 Repositories 🌳</h3>
+
+<br>
+
+| **no** |           **name**           |  **date**  |                                        **content**                                       |     **note**    |
+|:------:|:----------------------------:|:----------:|:----------------------------------------------------------------------------------------:|:---------------:|
+|    1   |   [olist Power BI][링크7]      | 2023.09- |                    Power BI CRM Dashboard (Data Pipeline)                 |  in progress now  |
+|    2   |      [Dacon_ClosingPrice][링크1]      | 2021.12-2022.01 |                    Model predicting Closing Price of  300 Korean firms             |   dacon 1st 🥇 |
+|    3   | [Investment-Indicators-Django][링크2] | 2021.10-11 | Django project providing some investment information and 5 models predicting stock price |                 |
+|    4   |     [Wanted_AI_Onboarding][링크4]     | 2022.02-03 |                       Studying NLP process in Wanted AI onboarding                       |                 |
+|    5   |      [NLP_STS REST API][링크6]      |  2022.03-04  |                               REST API deploying STS model                           | Fast API  |
+
+<!--
+|    4   |         [Pytorch_Basic][링크3]        |  2022.03-  |                                 Exercising Pytorch                                |  |
+|    6   |      [scikitlearn_review][링크5]      |  2022.04-  |                               Reviewing scikit-learn                               | |
+-->
+
+[링크1]: https://github.com/sonewn/Dacon_ClosingPrice "scikit-learn model"
+[링크2]: https://github.com/sonewn/Investment-Indicators-Django "Django project & tensorflow & sklearn"
+[링크3]: https://github.com/sonewn/Pytorch_Basic "Pytorch"
+[링크4]: https://github.com/sonewn/Wanted_AI_Onboarding "NLP & Pytorch"
+[링크5]: https://github.com/sonewn/scikitlearn_review "scikit-learn"
+[링크6]: https://github.com/sonewn/NLP_STS_FastAPI "NLP & FAST API"
+[링크7]: https://github.com/sonewn/OlistVision "Power BI"
+
+
+<br><br><br>
+
+***
+
+<br><br>
 <h3 align="center">🥛 Tech Stack 🥛</h3>
 
 <br>
@@ -28,35 +59,6 @@
 </p>
 
 <br><br><br>
-
-***
-<br><br>
-<h3 align="center">🌳 Repositories 🌳</h3>
-
-<br>
-
-| **no** |           **name**           |  **date**  |                                        **content**                                       |     **note**    |
-|:------:|:----------------------------:|:----------:|:----------------------------------------------------------------------------------------:|:---------------:|
-|    1   |      [Dacon_ClosingPrice][링크1]      | 2021.12-01 |                    Model predicting Closing Price of  300 Korean firms                   |   dacon 1st 🥇   |
-|    2   | [Investment-Indicators-Django][링크2] | 2021.10-11 | Django project providing some investment information and 5 models predicting stock price |                 |
-|    3   |         [Pytorch_Basic][링크3]        |  2022.03-  |                                 Exercising Pytorch                                | in progress now |
-|    4   |     [Wanted_AI_Onboarding][링크4]     | 2022.02-03 |                       Studying NLP process in Wanted AI onboarding                       |                 |
-|    5   |      [scikitlearn_review][링크5]      |  2022.04-  |                               Reviewing scikit-learn                               | in progress now |
-|    6   |      [NLP_STS REST API][링크6]      |  2022.03-04  |                               REST API deploying STS model                           | Fast API  |
-
-[링크1]: https://github.com/sonewn/Dacon_ClosingPrice "scikit-learn model"
-[링크2]: https://github.com/sonewn/Investment-Indicators-Django "Django project & tensorflow & sklearn"
-[링크3]: https://github.com/sonewn/Pytorch_Basic "Pytorch"
-[링크4]: https://github.com/sonewn/Wanted_AI_Onboarding "NLP & Pytorch"
-[링크5]: https://github.com/sonewn/scikitlearn_review "scikit-learn"
-[링크6]: https://github.com/sonewn/NLP_STS_FastAPI "NLP & FAST API"
-
-<br><br><br>
-
-***
-
-
-
 
 
 

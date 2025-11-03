@@ -3,13 +3,21 @@
 
 
 
-<h3 align="center">Hi there 👋</h3>                                                                                                                                                  
-<h3 align="center">I'm sonewn, Data engineer and Data Platform enginner! 🤓</h3>
+<h3 align="center">Hi there 👋</h3>
+<h3 align="center">I'm sonewn — Data Engineer & Data Platform Engineer 🤓</h3>
 
 <br>
-<h3 align="center">Now I'm operating data pipeline & Fast API server for DataPlatform in my firm!</h3>
 
-<h3 align="center">And interested in MLOps & Bigdata system👩🏻‍💻</h3> 
+<h3 align="center">Currently building and operating data pipelines on <b>Palantir Foundry</b> 🏗️</h3>
+<h3 align="center">Exploring <b>LLM & AI Agent</b> technologies 👩🏻‍💻</h3>
+
+<br>
+
+<h3 align="center">On the side, I'm working on a <b>crypto-related project</b> 🪙💎</h3>
+<p align="center">
+  <a href="https://github.com/sonewn/CryptoYun" target="_blank">🚀 Check out my side project here!</a>
+</p>
+
 
 <br><br><br>
 
